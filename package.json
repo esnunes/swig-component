@@ -1,0 +1,32 @@
+{
+  "name": "swig-component",
+  "version": "0.0.1",
+  "description": "swig tag to enable component-based web development",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esnunes/swig-component.git"
+  },
+  "author": {
+    "name": "Eduardo Nunes",
+    "email": "esnunes@gmail.com"
+  },
+  "engines": {
+    "node": ">= 0.10.7"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/esnunes/swig-component/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/esnunes/swig-component/issues"
+  },
+  "homepage": "https://github.com/esnunes/swig-component",
+  "keywords": [
+    "swig",
+    "component",
+    "component-based"
+  ]
+}
